@@ -37,5 +37,5 @@ Visit [Elections Canada](http://www.elections.ca/) for results!
 
 #####Liberals:
 Justin Trudeau:
-> `<Real Change>`
+> `Real Change`
 
