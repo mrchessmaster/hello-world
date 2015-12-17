@@ -1,5 +1,3 @@
-# first-r-markdown
-
 
 ###Hi everyone! Welcome to my repository!
 
